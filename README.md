@@ -4,6 +4,8 @@
 
 ```sh
 PAYPAL_CLIENT_ID=<your PayPal client id>
+PAYPAL_MONTHLY_PLAN_ID=<monthly plan id>
+PAYPAL_YEARLY_PLAN_ID=<yearly plan id>
 ```
 
 ## Development
